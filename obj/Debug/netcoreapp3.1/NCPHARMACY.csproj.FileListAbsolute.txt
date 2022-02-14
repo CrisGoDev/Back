@@ -1,0 +1,255 @@
+C:\Users\nesto\Documents\Feria 2021\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\nesto\Documents\Feria 2021\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\nesto\Documents\Feria 2021\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\NCPHARMACY.exe
+C:\Users\nesto\Documents\Feria 2021\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\NCPHARMACY.deps.json
+C:\Users\nesto\Documents\Feria 2021\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\NCPHARMACY.runtimeconfig.json
+C:\Users\nesto\Documents\Feria 2021\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\NCPHARMACY.runtimeconfig.dev.json
+C:\Users\nesto\Documents\Feria 2021\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\NCPHARMACY.dll
+C:\Users\nesto\Documents\Feria 2021\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\NCPHARMACY.pdb
+C:\Users\nesto\Documents\Feria 2021\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\nesto\Documents\Feria 2021\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nesto\Documents\Feria 2021\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\nesto\Documents\Feria 2021\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nesto\Documents\Feria 2021\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\nesto\Documents\Feria 2021\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\nesto\Documents\Feria 2021\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\nesto\Documents\Feria 2021\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\nesto\Documents\Feria 2021\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\nesto\Documents\Feria 2021\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\nesto\Documents\Feria 2021\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\nesto\Documents\Feria 2021\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\nesto\Documents\Feria 2021\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\nesto\Documents\Feria 2021\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\nesto\Documents\Feria 2021\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\nesto\Documents\Feria 2021\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\nesto\Documents\Feria 2021\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\nesto\Documents\Feria 2021\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nesto\Documents\Feria 2021\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\nesto\Documents\Feria 2021\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nesto\Documents\Feria 2021\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nesto\Documents\Feria 2021\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nesto\Documents\Feria 2021\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\nesto\Documents\Feria 2021\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\nesto\Documents\Feria 2021\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\nesto\Documents\Feria 2021\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\nesto\Documents\Feria 2021\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nesto\Documents\Feria 2021\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nesto\Documents\Feria 2021\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\nesto\Documents\Feria 2021\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nesto\Documents\Feria 2021\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nesto\Documents\Feria 2021\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nesto\Documents\Feria 2021\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nesto\Documents\Feria 2021\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\nesto\Documents\Feria 2021\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nesto\Documents\Feria 2021\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\nesto\Documents\Feria 2021\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nesto\Documents\Feria 2021\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\nesto\Documents\Feria 2021\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nesto\Documents\Feria 2021\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\nesto\Documents\Feria 2021\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\nesto\Documents\Feria 2021\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nesto\Documents\Feria 2021\NCPHARMACY\NCPHARMACY\obj\Debug\netcoreapp3.1\NCPHARMACY.csproj.AssemblyReference.cache
+C:\Users\nesto\Documents\Feria 2021\NCPHARMACY\NCPHARMACY\obj\Debug\netcoreapp3.1\NCPHARMACY.AssemblyInfoInputs.cache
+C:\Users\nesto\Documents\Feria 2021\NCPHARMACY\NCPHARMACY\obj\Debug\netcoreapp3.1\NCPHARMACY.AssemblyInfo.cs
+C:\Users\nesto\Documents\Feria 2021\NCPHARMACY\NCPHARMACY\obj\Debug\netcoreapp3.1\NCPHARMACY.csproj.CoreCompileInputs.cache
+C:\Users\nesto\Documents\Feria 2021\NCPHARMACY\NCPHARMACY\obj\Debug\netcoreapp3.1\NCPHARMACY.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nesto\Documents\Feria 2021\NCPHARMACY\NCPHARMACY\obj\Debug\netcoreapp3.1\staticwebassets\NCPHARMACY.StaticWebAssets.Manifest.cache
+C:\Users\nesto\Documents\Feria 2021\NCPHARMACY\NCPHARMACY\obj\Debug\netcoreapp3.1\staticwebassets\NCPHARMACY.StaticWebAssets.xml
+C:\Users\nesto\Documents\Feria 2021\NCPHARMACY\NCPHARMACY\obj\Debug\netcoreapp3.1\scopedcss\bundle\NCPHARMACY.styles.css
+C:\Users\nesto\Documents\Feria 2021\NCPHARMACY\NCPHARMACY\obj\Debug\netcoreapp3.1\NCPHARMACY.RazorTargetAssemblyInfo.cache
+C:\Users\nesto\Documents\Feria 2021\NCPHARMACY\NCPHARMACY\obj\Debug\netcoreapp3.1\NCPHARMACY.csproj.CopyComplete
+C:\Users\nesto\Documents\Feria 2021\NCPHARMACY\NCPHARMACY\obj\Debug\netcoreapp3.1\NCPHARMACY.dll
+C:\Users\nesto\Documents\Feria 2021\NCPHARMACY\NCPHARMACY\obj\Debug\netcoreapp3.1\NCPHARMACY.pdb
+C:\Users\nesto\Documents\Feria 2021\NCPHARMACY\NCPHARMACY\obj\Debug\netcoreapp3.1\NCPHARMACY.genruntimeconfig.cache
+C:\Users\crisj\Documents\Angular\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\crisj\Documents\Angular\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\crisj\Documents\Angular\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\NCPHARMACY.exe
+C:\Users\crisj\Documents\Angular\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\NCPHARMACY.deps.json
+C:\Users\crisj\Documents\Angular\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\NCPHARMACY.runtimeconfig.json
+C:\Users\crisj\Documents\Angular\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\NCPHARMACY.runtimeconfig.dev.json
+C:\Users\crisj\Documents\Angular\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\NCPHARMACY.dll
+C:\Users\crisj\Documents\Angular\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\NCPHARMACY.pdb
+C:\Users\crisj\Documents\Angular\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\crisj\Documents\Angular\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\crisj\Documents\Angular\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\crisj\Documents\Angular\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\crisj\Documents\Angular\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\crisj\Documents\Angular\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\crisj\Documents\Angular\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\crisj\Documents\Angular\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\crisj\Documents\Angular\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\crisj\Documents\Angular\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\crisj\Documents\Angular\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\crisj\Documents\Angular\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\crisj\Documents\Angular\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\crisj\Documents\Angular\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\crisj\Documents\Angular\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\crisj\Documents\Angular\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\crisj\Documents\Angular\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\crisj\Documents\Angular\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\crisj\Documents\Angular\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\crisj\Documents\Angular\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\crisj\Documents\Angular\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\crisj\Documents\Angular\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\crisj\Documents\Angular\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\crisj\Documents\Angular\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\crisj\Documents\Angular\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\crisj\Documents\Angular\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\crisj\Documents\Angular\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\crisj\Documents\Angular\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\crisj\Documents\Angular\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\crisj\Documents\Angular\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\crisj\Documents\Angular\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\crisj\Documents\Angular\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\crisj\Documents\Angular\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\crisj\Documents\Angular\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\crisj\Documents\Angular\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\crisj\Documents\Angular\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\crisj\Documents\Angular\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\crisj\Documents\Angular\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\crisj\Documents\Angular\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\crisj\Documents\Angular\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\crisj\Documents\Angular\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\crisj\Documents\Angular\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\crisj\Documents\Angular\NCPHARMACY\NCPHARMACY\obj\Debug\netcoreapp3.1\NCPHARMACY.csprojAssemblyReference.cache
+C:\Users\crisj\Documents\Angular\NCPHARMACY\NCPHARMACY\obj\Debug\netcoreapp3.1\NCPHARMACY.AssemblyInfoInputs.cache
+C:\Users\crisj\Documents\Angular\NCPHARMACY\NCPHARMACY\obj\Debug\netcoreapp3.1\NCPHARMACY.AssemblyInfo.cs
+C:\Users\crisj\Documents\Angular\NCPHARMACY\NCPHARMACY\obj\Debug\netcoreapp3.1\NCPHARMACY.csproj.CoreCompileInputs.cache
+C:\Users\crisj\Documents\Angular\NCPHARMACY\NCPHARMACY\obj\Debug\netcoreapp3.1\NCPHARMACY.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\crisj\Documents\Angular\NCPHARMACY\NCPHARMACY\obj\Debug\netcoreapp3.1\staticwebassets\NCPHARMACY.StaticWebAssets.Manifest.cache
+C:\Users\crisj\Documents\Angular\NCPHARMACY\NCPHARMACY\obj\Debug\netcoreapp3.1\staticwebassets\NCPHARMACY.StaticWebAssets.xml
+C:\Users\crisj\Documents\Angular\NCPHARMACY\NCPHARMACY\obj\Debug\netcoreapp3.1\scopedcss\bundle\NCPHARMACY.styles.css
+C:\Users\crisj\Documents\Angular\NCPHARMACY\NCPHARMACY\obj\Debug\netcoreapp3.1\NCPHARMACY.RazorTargetAssemblyInfo.cache
+C:\Users\crisj\Documents\Angular\NCPHARMACY\NCPHARMACY\obj\Debug\netcoreapp3.1\NCPHARMACY.csproj.CopyComplete
+C:\Users\crisj\Documents\Angular\NCPHARMACY\NCPHARMACY\obj\Debug\netcoreapp3.1\NCPHARMACY.dll
+C:\Users\crisj\Documents\Angular\NCPHARMACY\NCPHARMACY\obj\Debug\netcoreapp3.1\NCPHARMACY.pdb
+C:\Users\crisj\Documents\Angular\NCPHARMACY\NCPHARMACY\obj\Debug\netcoreapp3.1\NCPHARMACY.genruntimeconfig.cache
+C:\Users\crisj\Documents\Angular\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\nesto\Documents\Feria 2021\Viejo\Nueva carpeta\NCPHARMACY\NCPHARMACY\obj\Debug\netcoreapp3.1\NCPHARMACY.csproj.AssemblyReference.cache
+C:\Users\nesto\Documents\Feria 2021\Viejo\Nueva carpeta\NCPHARMACY\NCPHARMACY\obj\Debug\netcoreapp3.1\NCPHARMACY.AssemblyInfoInputs.cache
+C:\Users\nesto\Documents\Feria 2021\Viejo\Nueva carpeta\NCPHARMACY\NCPHARMACY\obj\Debug\netcoreapp3.1\NCPHARMACY.AssemblyInfo.cs
+C:\Users\nesto\Documents\Feria 2021\Viejo\Nueva carpeta\NCPHARMACY\NCPHARMACY\obj\Debug\netcoreapp3.1\NCPHARMACY.csproj.CoreCompileInputs.cache
+C:\Users\nesto\Documents\Feria 2021\Viejo\Nueva carpeta\NCPHARMACY\NCPHARMACY\obj\Debug\netcoreapp3.1\NCPHARMACY.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nesto\Documents\Feria 2021\Viejo\Nueva carpeta\NCPHARMACY\NCPHARMACY\obj\Debug\netcoreapp3.1\NCPHARMACY.dll
+C:\Users\nesto\Documents\Feria 2021\Viejo\Nueva carpeta\NCPHARMACY\NCPHARMACY\obj\Debug\netcoreapp3.1\NCPHARMACY.pdb
+C:\Users\nesto\Documents\Feria 2021\Viejo\Nueva carpeta\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\nesto\Documents\Feria 2021\Viejo\Nueva carpeta\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\nesto\Documents\Feria 2021\Viejo\Nueva carpeta\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\NCPHARMACY.exe
+C:\Users\nesto\Documents\Feria 2021\Viejo\Nueva carpeta\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\NCPHARMACY.deps.json
+C:\Users\nesto\Documents\Feria 2021\Viejo\Nueva carpeta\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\NCPHARMACY.runtimeconfig.json
+C:\Users\nesto\Documents\Feria 2021\Viejo\Nueva carpeta\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\NCPHARMACY.runtimeconfig.dev.json
+C:\Users\nesto\Documents\Feria 2021\Viejo\Nueva carpeta\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\NCPHARMACY.dll
+C:\Users\nesto\Documents\Feria 2021\Viejo\Nueva carpeta\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\NCPHARMACY.pdb
+C:\Users\nesto\Documents\Feria 2021\Viejo\Nueva carpeta\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\nesto\Documents\Feria 2021\Viejo\Nueva carpeta\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\nesto\Documents\Feria 2021\Viejo\Nueva carpeta\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nesto\Documents\Feria 2021\Viejo\Nueva carpeta\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\nesto\Documents\Feria 2021\Viejo\Nueva carpeta\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nesto\Documents\Feria 2021\Viejo\Nueva carpeta\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\nesto\Documents\Feria 2021\Viejo\Nueva carpeta\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\nesto\Documents\Feria 2021\Viejo\Nueva carpeta\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\nesto\Documents\Feria 2021\Viejo\Nueva carpeta\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\nesto\Documents\Feria 2021\Viejo\Nueva carpeta\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\nesto\Documents\Feria 2021\Viejo\Nueva carpeta\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\nesto\Documents\Feria 2021\Viejo\Nueva carpeta\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\nesto\Documents\Feria 2021\Viejo\Nueva carpeta\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\nesto\Documents\Feria 2021\Viejo\Nueva carpeta\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\nesto\Documents\Feria 2021\Viejo\Nueva carpeta\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\nesto\Documents\Feria 2021\Viejo\Nueva carpeta\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\nesto\Documents\Feria 2021\Viejo\Nueva carpeta\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\nesto\Documents\Feria 2021\Viejo\Nueva carpeta\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\nesto\Documents\Feria 2021\Viejo\Nueva carpeta\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nesto\Documents\Feria 2021\Viejo\Nueva carpeta\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\nesto\Documents\Feria 2021\Viejo\Nueva carpeta\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nesto\Documents\Feria 2021\Viejo\Nueva carpeta\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nesto\Documents\Feria 2021\Viejo\Nueva carpeta\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nesto\Documents\Feria 2021\Viejo\Nueva carpeta\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\nesto\Documents\Feria 2021\Viejo\Nueva carpeta\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\nesto\Documents\Feria 2021\Viejo\Nueva carpeta\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\nesto\Documents\Feria 2021\Viejo\Nueva carpeta\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\nesto\Documents\Feria 2021\Viejo\Nueva carpeta\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nesto\Documents\Feria 2021\Viejo\Nueva carpeta\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nesto\Documents\Feria 2021\Viejo\Nueva carpeta\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\nesto\Documents\Feria 2021\Viejo\Nueva carpeta\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nesto\Documents\Feria 2021\Viejo\Nueva carpeta\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nesto\Documents\Feria 2021\Viejo\Nueva carpeta\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nesto\Documents\Feria 2021\Viejo\Nueva carpeta\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nesto\Documents\Feria 2021\Viejo\Nueva carpeta\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\nesto\Documents\Feria 2021\Viejo\Nueva carpeta\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nesto\Documents\Feria 2021\Viejo\Nueva carpeta\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\nesto\Documents\Feria 2021\Viejo\Nueva carpeta\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nesto\Documents\Feria 2021\Viejo\Nueva carpeta\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\nesto\Documents\Feria 2021\Viejo\Nueva carpeta\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nesto\Documents\Feria 2021\Viejo\Nueva carpeta\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\nesto\Documents\Feria 2021\Viejo\Nueva carpeta\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\nesto\Documents\Feria 2021\Viejo\Nueva carpeta\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nesto\Documents\Feria 2021\Viejo\Nueva carpeta\NCPHARMACY\NCPHARMACY\obj\Debug\netcoreapp3.1\staticwebassets\NCPHARMACY.StaticWebAssets.Manifest.cache
+C:\Users\nesto\Documents\Feria 2021\Viejo\Nueva carpeta\NCPHARMACY\NCPHARMACY\obj\Debug\netcoreapp3.1\staticwebassets\NCPHARMACY.StaticWebAssets.xml
+C:\Users\nesto\Documents\Feria 2021\Viejo\Nueva carpeta\NCPHARMACY\NCPHARMACY\obj\Debug\netcoreapp3.1\scopedcss\bundle\NCPHARMACY.styles.css
+C:\Users\nesto\Documents\Feria 2021\Viejo\Nueva carpeta\NCPHARMACY\NCPHARMACY\obj\Debug\netcoreapp3.1\NCPHARMACY.RazorTargetAssemblyInfo.cache
+C:\Users\nesto\Documents\Feria 2021\Viejo\Nueva carpeta\NCPHARMACY\NCPHARMACY\obj\Debug\netcoreapp3.1\NCPHARMACY.csproj.CopyComplete
+C:\Users\nesto\Documents\Feria 2021\Viejo\Nueva carpeta\NCPHARMACY\NCPHARMACY\obj\Debug\netcoreapp3.1\NCPHARMACY.genruntimeconfig.cache
+C:\Users\crisj\Documents\Versiones de proyecto pHarmacy\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\crisj\Documents\Versiones de proyecto pHarmacy\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\crisj\Documents\Versiones de proyecto pHarmacy\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\NCPHARMACY.exe
+C:\Users\crisj\Documents\Versiones de proyecto pHarmacy\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\NCPHARMACY.deps.json
+C:\Users\crisj\Documents\Versiones de proyecto pHarmacy\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\NCPHARMACY.runtimeconfig.json
+C:\Users\crisj\Documents\Versiones de proyecto pHarmacy\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\NCPHARMACY.runtimeconfig.dev.json
+C:\Users\crisj\Documents\Versiones de proyecto pHarmacy\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\NCPHARMACY.dll
+C:\Users\crisj\Documents\Versiones de proyecto pHarmacy\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\NCPHARMACY.pdb
+C:\Users\crisj\Documents\Versiones de proyecto pHarmacy\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\crisj\Documents\Versiones de proyecto pHarmacy\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\crisj\Documents\Versiones de proyecto pHarmacy\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\crisj\Documents\Versiones de proyecto pHarmacy\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\crisj\Documents\Versiones de proyecto pHarmacy\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\crisj\Documents\Versiones de proyecto pHarmacy\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\crisj\Documents\Versiones de proyecto pHarmacy\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\crisj\Documents\Versiones de proyecto pHarmacy\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\crisj\Documents\Versiones de proyecto pHarmacy\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\crisj\Documents\Versiones de proyecto pHarmacy\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\crisj\Documents\Versiones de proyecto pHarmacy\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\crisj\Documents\Versiones de proyecto pHarmacy\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\crisj\Documents\Versiones de proyecto pHarmacy\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\crisj\Documents\Versiones de proyecto pHarmacy\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\crisj\Documents\Versiones de proyecto pHarmacy\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\crisj\Documents\Versiones de proyecto pHarmacy\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\crisj\Documents\Versiones de proyecto pHarmacy\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\crisj\Documents\Versiones de proyecto pHarmacy\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\crisj\Documents\Versiones de proyecto pHarmacy\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\crisj\Documents\Versiones de proyecto pHarmacy\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\crisj\Documents\Versiones de proyecto pHarmacy\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\crisj\Documents\Versiones de proyecto pHarmacy\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\crisj\Documents\Versiones de proyecto pHarmacy\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\crisj\Documents\Versiones de proyecto pHarmacy\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\crisj\Documents\Versiones de proyecto pHarmacy\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\crisj\Documents\Versiones de proyecto pHarmacy\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\crisj\Documents\Versiones de proyecto pHarmacy\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\crisj\Documents\Versiones de proyecto pHarmacy\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\crisj\Documents\Versiones de proyecto pHarmacy\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\crisj\Documents\Versiones de proyecto pHarmacy\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\crisj\Documents\Versiones de proyecto pHarmacy\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\crisj\Documents\Versiones de proyecto pHarmacy\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\crisj\Documents\Versiones de proyecto pHarmacy\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\crisj\Documents\Versiones de proyecto pHarmacy\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\crisj\Documents\Versiones de proyecto pHarmacy\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\crisj\Documents\Versiones de proyecto pHarmacy\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\crisj\Documents\Versiones de proyecto pHarmacy\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\crisj\Documents\Versiones de proyecto pHarmacy\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\crisj\Documents\Versiones de proyecto pHarmacy\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\crisj\Documents\Versiones de proyecto pHarmacy\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\crisj\Documents\Versiones de proyecto pHarmacy\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\crisj\Documents\Versiones de proyecto pHarmacy\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\crisj\Documents\Versiones de proyecto pHarmacy\NCPHARMACY\NCPHARMACY\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\crisj\Documents\Versiones de proyecto pHarmacy\NCPHARMACY\NCPHARMACY\obj\Debug\netcoreapp3.1\NCPHARMACY.csprojAssemblyReference.cache
+C:\Users\crisj\Documents\Versiones de proyecto pHarmacy\NCPHARMACY\NCPHARMACY\obj\Debug\netcoreapp3.1\NCPHARMACY.AssemblyInfoInputs.cache
+C:\Users\crisj\Documents\Versiones de proyecto pHarmacy\NCPHARMACY\NCPHARMACY\obj\Debug\netcoreapp3.1\NCPHARMACY.AssemblyInfo.cs
+C:\Users\crisj\Documents\Versiones de proyecto pHarmacy\NCPHARMACY\NCPHARMACY\obj\Debug\netcoreapp3.1\NCPHARMACY.csproj.CoreCompileInputs.cache
+C:\Users\crisj\Documents\Versiones de proyecto pHarmacy\NCPHARMACY\NCPHARMACY\obj\Debug\netcoreapp3.1\NCPHARMACY.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\crisj\Documents\Versiones de proyecto pHarmacy\NCPHARMACY\NCPHARMACY\obj\Debug\netcoreapp3.1\staticwebassets\NCPHARMACY.StaticWebAssets.Manifest.cache
+C:\Users\crisj\Documents\Versiones de proyecto pHarmacy\NCPHARMACY\NCPHARMACY\obj\Debug\netcoreapp3.1\staticwebassets\NCPHARMACY.StaticWebAssets.xml
+C:\Users\crisj\Documents\Versiones de proyecto pHarmacy\NCPHARMACY\NCPHARMACY\obj\Debug\netcoreapp3.1\scopedcss\bundle\NCPHARMACY.styles.css
+C:\Users\crisj\Documents\Versiones de proyecto pHarmacy\NCPHARMACY\NCPHARMACY\obj\Debug\netcoreapp3.1\NCPHARMACY.RazorTargetAssemblyInfo.cache
+C:\Users\crisj\Documents\Versiones de proyecto pHarmacy\NCPHARMACY\NCPHARMACY\obj\Debug\netcoreapp3.1\NCPHARMACY.csproj.CopyComplete
+C:\Users\crisj\Documents\Versiones de proyecto pHarmacy\NCPHARMACY\NCPHARMACY\obj\Debug\netcoreapp3.1\NCPHARMACY.dll
+C:\Users\crisj\Documents\Versiones de proyecto pHarmacy\NCPHARMACY\NCPHARMACY\obj\Debug\netcoreapp3.1\NCPHARMACY.pdb
+C:\Users\crisj\Documents\Versiones de proyecto pHarmacy\NCPHARMACY\NCPHARMACY\obj\Debug\netcoreapp3.1\NCPHARMACY.genruntimeconfig.cache
